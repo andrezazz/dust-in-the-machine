@@ -1,9 +1,11 @@
 # Growing Dust in the Machine
 This is the capstone project, completed in partial fulfillment of the requirements for the MS in Data Science at the University of Virginia, for André Zazzera, Kevin Hoffman, and Jae Yoon Sung. This work was done under the mentorship of Jonathan Kropko, and in collaboration with Jonathan Ramsey and Ilse Cleeves of the UVA Astronomy Department.
 
-Within, you can find our various Jupyter notebooks by means of which we did our work.
+Within [our repository](https://github.com/andrezazz/dust-in-the-machine), you can find our various Jupyter notebooks by means of which we did our work.
 
 Our paper can be found on arXiv [here](https://arxiv.org/abs/2104.12845).
+
+Here is a description of the notebooks, to get you started. Happy dusting!
 ## Notebooks
 - data_prep:
   - Dust Data Prep All Bins:
